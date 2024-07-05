@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Ysm's Home"
+title                    : "Zjw's Home"
 title_separator          : "-"
-name                     : &name "颜劭铭"
+name                     : &name "曾俊伟"
 description              : &description "personal description"
-url                      : https://Steven-Ysm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jun-Wei-Zeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Steven-Ysm/Steven-Ysm.github.io"
+repository               : "Jun-Wei-Zeng/Jun-Wei-Zeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "颜劭铭"
-  avatar           : "profile1.png"
-  bio              : "SM的日常与学术碎碎念"
+  name             : "曾俊伟"
+  avatar           : "profile.png"
+  bio              : "一两黄金一两风"
   location         : "China Nanjing"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yanshaoming@nuaa.edu.cn"
+  email            : "z112965138@nuaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Steven-Ysm"
+  github           : "Jun-Wei-Zeng"
   google_plus      :
   keybase          :
   instagram        :
